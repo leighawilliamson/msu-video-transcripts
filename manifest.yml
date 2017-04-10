@@ -8,7 +8,7 @@ declared-services:
     plan: Lite
 
 applications:
-- name: miami-dade-video-transcripts
+- name: msu-video-transcripts
   path: .
   command: npm start
   memory: 512M
